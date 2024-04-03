@@ -2,9 +2,9 @@
 
 ### Installation
 
-Clone repository: 
+Clone the repository: https://github.com/aarekr/Hello-Docker-App.git
 
-Install npm with
+Install npm
 ```
 npm install
 ```
